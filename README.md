@@ -6,7 +6,7 @@
 
 * [Библиотека ML-специалиста](#Библиотека-ml-специалиста) + выбор редакции:
   * [Дополнительные материалы](https://gist.github.com/demidovakatya/cef3d462bcf56b84f56950ea490a9e8e) к курсу «Введение в машинное обучение»
-  * [Рекомендации](https://gist.github.com/demidovakatya/61e15717a9eefae0bd237b7fd959d166) от преподавателей [специализации «Машинное обучение и анализ данных»](https://github.com/demidovakatya/mashinnoye-obucheniye)
+  * [Рекомендации](https://gist.github.com/demidovakatya/61e15717a9eefae0bd237b7fd959d166) от преподавателей специализации «Машинное обучение и анализ данных»
   * [Литература для поступления в ШАД](https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842)
   * [Подборка научпоп-книг](https://bookmate.com/bookshelves/Nggk0rBi)
 * По темам: 
@@ -21,7 +21,7 @@
   * [Нейронные сети, Deep learning](/neural-nets.md)
   * [Статистика и теория вероятностей](/probability-statistics.md)
 * [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc)
-* [Чаты/паблики/каналы про ML](#Social).
+* [Чаты/паблики/каналы про ML](#social)
 
 ----------------------------------------------------
 
@@ -35,7 +35,7 @@
 * [awesome-machine-learning — A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
 * [Open Source Society University's Data Science](https://github.com/open-source-society/data-science) course – this is a solid path for those of you who want to complete a Data Science course on your own time, for free, with courses from the best universities in the World
 * [Доска по data science в Trello — проверенные материалы, организованные по темам (expertise tracks, языки программирования, различные инструменты)](https://trello.com/b/rbpEfMld/data-science)
-* [Machine Learning Resource Guide](https://www.dropbox.com/s/z4f9oer4nkyu9tf/MachineLearningResourceGuide.pdf)
+* [Machine Learning Resource Guide](https://www.pdf-archive.com/2017/09/02/machine-learning-resource-guide/machine-learning-resource-guide.pdf)
 * [17 ресурсов по машинному обучению  от Типичного Программиста](http://tproger.ru/articles/free-programming-books/#machine-learning)
 * [51 toy data problem in Data Science](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) 
 * [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) 
@@ -52,6 +52,9 @@
 * [The most popular programming books ever mentioned on StackOverflow](https://medium.freecodecamp.com/eee0891f1786)
 * [Cookiecutter Data Science – A logical, reasonably standardized, but flexible project structure for doing and sharing data science work](http://drivendata.github.io/cookiecutter-data-science/)
 * [awesome-datascience-ideas - A list of awesome and proven data science use cases and applications](https://github.com/JosPolfliet/awesome-datascience-ideas/blob/master/README.md)
+* [machine-learning-surveys - A curated list of Machine Learning Surveys, Tutorials and Books](https://github.com/metrofun/machine-learning-surveys)
+* [A hands-on data science crash course in Python by Bart De Vylder and Pieter Buteneers from CoScale](https://github.com/bartdevylder/velocity-tutorial-san-jose)
+* [docker-setup - A Curated List of Docker Images for Data Science Projects, with Easy Setup](https://github.com/yang-zhang/docker-setup)
   
 ----------------------------------------------------
 
@@ -66,7 +69,7 @@
 * [Data Mining: Concepts and Techniques](http://www.sciencedirect.com/science/book/9780123814791) - Jiawei Han et. al.
 * [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015)
 * [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
-* [Elements of Statistical Learning] (http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf) – Hastie, Tibshirani, Friedman (pdf)
+* [Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf) – Hastie, Tibshirani, Friedman (pdf)
 * [Foundations of Machine Learning](http://www.cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar (2012)
 * [Frequent Pattern Mining](http://www.charuaggarwal.net/freqbook.pdf) - Charu C Aggarwal, Jiawei Han (eds.) (pdf)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/RW.pdf) - Carl E. Rasmugit lssen, Christopher K. I. Williams (pdf)
@@ -91,7 +94,7 @@
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/copy.html)
 * [Анализ больших наборов данных](http://dmkpress.com/catalog/computer/data/978-5-97060-190-7/) - перевод Mining Massive Datasets
 * [Математические методы обучения по прецедентам (теория обучения машин)](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf) – К. В. Воронцов (pdf)
-* [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах (pdf)
+* [Машинное обучение](https://www.pdf-archive.com/2017/09/02/machine-learning-ru-flach-p/machine-learning-ru-flach-p.pdf) — Петер Флах (pdf)
 * [Методы ансамблирования обучающихся алгоритмов](http://www.machinelearning.ru/wiki/images/5/56/Guschin2015Stacking.pdf) — диссертация А. Гущина (pdf)
 * [Построение систем машинного обучения](https://vk.com/doc190970339_437111950) — Л. П. Коэльо, В. Ричарт (2016)
 
@@ -106,6 +109,7 @@
   * Специализация [Машинное обучение и Анализ данных (Яндекс + МФТИ/MIPT)](https://www.coursera.org/specializations/mashinnoye-obucheniye) 
     * :octocat: [мой репозиторий по этой специализации](https://github.com/demidovakatya/mashinnoye-obucheniye)
   * [Machine Learning Foundations: A Case Study Approach (University of Washington)](https://www.coursera.org/learn/ml-foundations/)
+  * [Data Mining Specialization](https://www.coursera.org/specializations/data-mining)
   * [Data Science at Scale Specialization (University of Washington)](https://www.coursera.org/specializations/data-science)
   * [Calculus: Single Variable Part 1 (University of Pennsylvania)](https://www.coursera.org/learn/single-variable-calculus)
   * [Calculus One (The Ohio State University)](https://www.coursera.org/learn/calculus1) 
@@ -117,7 +121,8 @@
   * [Social Network Analysis (University of Michigan)](https://www.coursera.org/course/sna)
   * [Social and Economic Networks: Models and Analysis (Stanford University)](https://www.coursera.org/course/networksonline)
   * [Recommender Systems Specialization (University of Minnesota)](https://www.coursera.org/specializations/recommender-systems)
-  * [Build Intelligent Applications Specialization (University of Washington)](https://www.coursera.org/specializations/machine-learning).
+  * [Build Intelligent Applications Specialization (University of Washington)](https://www.coursera.org/specializations/machine-learning)
+  * [Программирование на Python (МФТИ/MIPT)](https://www.coursera.org/learn/programming-in-python/home/welcome)
 * Udacity:
   * [Machine Learning Engineer Nanodegree (co-created by Kaggle)](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
   * [Data Analyst Nanodegree (co-created by Facebook & MongoDB)](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
@@ -136,7 +141,8 @@
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy
 * [Основы статистики](https://stepic.org/course/76) — качественное введение в статистику, целиком на русском языке
 * [Data Science and Machine Learning Essentials (Microsoft)](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100)
-* [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford University)](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)) — отличный десятинедельный курс по нейросетям и компьютерному зрению
+* [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford University)](http://vision.stanford.edu/teaching/cs231n/) — отличный десятинедельный курс по нейросетям и компьютерному зрению
+  * [:octocat: repo on github](https://github.com/cs231n)
 * [Mining Massive Datasets (Stanford University)](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+Fall2016/about) - курс, основанный на книге Mining of Massive Datasets авторов Jure Leskovec, Anand Rajaraman, and Jeff Ullman (они же являются инструкторами этого курса)
 * [CS109: Data Science (Harvard University)](http://cs109.github.io/2015/)
 
@@ -146,9 +152,12 @@
 
 Обсуждение машинного обучения в мессенджерах (группы, каналы, чаты, сообщества).
 
-* [Open Data Science](http://ods.ais)
+* [Open Data Science](http://ods.ai)
 * [Посвященная московским ML-тренировкам группа в facebook](https://www.facebook.com/groups/1413405125598651/)
 * [и группа вконтакте про тренировки по машинному обучению](https://vk.com/mltrainings)
+* [Томская группа по машинному обучению](https://vk.com/tomskml)
+* [Slack Томской группы по ML](https://tomskml.slack.com/)
+  * [форма регистрации](https://docs.google.com/forms/d/e/1FAIpQLSdYpgm7T80JpyBPt6NMgRP_4jne7v_qaGFjy8wDrS4fNajMDA/viewform?c=0&w=1)
 * Паблики/группы вконтакте:
   * [Data Science](https://vk.com/datascience)
   * [Deep Learning](https://vk.com/deeplearning)
@@ -178,6 +187,7 @@
     * [/r/datascience](https://www.reddit.com/r/datascience)
     * [/r/datasets](https://www.reddit.com/r/datasets)
     * [/r/dataviz](https://www.reddit.com/r/dataviz)
+    * [/r/JupyterNotebooks](https://www.reddit.com/r/JupyterNotebooks)
     * [/r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology)
     * [/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning)
     * [/r/learnpython](https://www.reddit.com/r/learnpython)
